@@ -282,8 +282,8 @@
     {
         "name": "appwrite",
         "tags": [
-            "cloud", 
-            "platform", 
+            "cloud",
+            "platform",
             "server"
         ],
         "versions": {
@@ -1755,12 +1755,12 @@
         "aliases": []
     },
     {
-        "name": "gentoo", 
+        "name": "gentoo",
         "tags": [
             "linux",
             "distribuition",
             "desktop"
-        ], 
+        ],
         "versions": {
             "svg": [
                 "plain",
@@ -1769,10 +1769,10 @@
             "font": [
                 "plain-wordmark",
                 "plain"
-            ] 
+            ]
         },
-        "color": "#9991d9", 
-        "aliases": [] 
+        "color": "#9991d9",
+        "aliases": []
     },
     {
         "name": "gimp",
@@ -3485,12 +3485,12 @@
         "aliases": []
     },
     {
-        "name": "opensuse", 
+        "name": "opensuse",
         "tags": [
             "linux",
             "distribuition",
             "desktop"
-        ], 
+        ],
         "versions": {
             "svg": [
                 "original",
@@ -3501,10 +3501,10 @@
             "font": [
                 "plain",
                 "plain-wordmark"
-            ] 
+            ]
         },
-        "color": "#73ba25", 
-        "aliases": [] 
+        "color": "#73ba25",
+        "aliases": []
     },
     {
         "name": "oracle",
@@ -4665,18 +4665,18 @@
         "name": "storybook",
         "tags": [
             "framework",
-            "documentation", 
+            "documentation",
             "ui"
         ],
         "versions": {
           "svg": [
-              "original", 
+              "original",
               "original-wordmark",
-              "plain", 
+              "plain",
               "plain-wordmark"
           ],
           "font": [
-              "plain", 
+              "plain",
               "plain-wordmark"
           ]
         },
@@ -5273,6 +5273,26 @@
         ]
     },
     {
+        "name": "wolfram",
+        "tags": [
+            "organization",
+            "data-science",
+            "computation"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark"
+            ],
+            "font": [
+                "original",
+                "original-wordmark"
+            ]
+        },
+        "color": "#dd1100",
+        "aliases": []
+    },
+    {
         "name": "woocommerce",
         "tags": [
             "ecommerce"
@@ -5737,13 +5757,13 @@
         "aliases": []
 },
 {
-        "name": "vuetify", 
+        "name": "vuetify",
         "tags": [
             "css",
             "framework",
             "vuejs-library",
             "material-design"
-        ], 
+        ],
         "versions": {
             "svg": [
                 "original",
@@ -5753,18 +5773,18 @@
             "font": [
                 "line",
                 "plain"
-            ] 
+            ]
         },
-        "color": "#1697F6", 
-        "aliases": [] 
+        "color": "#1697F6",
+        "aliases": []
     },
     {
-        "name": "fedora", 
+        "name": "fedora",
         "tags": [
             "linux",
             "distribuition",
             "desktop"
-        ], 
+        ],
         "versions": {
             "svg": [
                 "original",
@@ -5772,10 +5792,10 @@
             ],
             "font": [
                 "plain"
-            ] 
+            ]
         },
-        "color": "#294172", 
-        "aliases": [] 
+        "color": "#294172",
+        "aliases": []
     }
 
 ]
